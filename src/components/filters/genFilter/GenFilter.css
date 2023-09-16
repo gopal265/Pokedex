@@ -1,0 +1,23 @@
+.gen-filter{
+    margin:20px auto;
+    width: 400px;
+    background-color: white;
+    box-shadow: 0px 0px 5px 2px rgb(187, 180, 180);
+    
+}
+.gen-filter-item{
+    font-size: 24px;
+    text-align: center;
+    font-weight: 600;
+    width : 50px;
+    padding: 5px 0px;
+    box-sizing: border-box;
+}
+
+.gen-filter-item:hover{
+    background-color: rgb(207, 201, 201);
+}
+.gen-active{
+    background-color: rgb(207, 201, 201) ;
+    border-bottom: 2px solid blue;
+}
